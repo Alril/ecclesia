@@ -1,0 +1,10 @@
+{
+  "appId": "org.ecclesia.mobile.app",
+  "appName": "Ecclesia App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.1.7:9500"
+  }
+}
