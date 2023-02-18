@@ -1,7 +1,0 @@
-{
-  "appId": "org.ecclesia.mobile.app",
-  "appName": "Ecclesia App",
-  "bundledWebRuntime": false,
-  "npmClient": "yarn",
-  "webDir": "www"
-}

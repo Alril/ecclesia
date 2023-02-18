@@ -1,6 +1,6 @@
-# Ecclesia App (ecclesia)
+# Ecclesia App (ecclesia-app)
 
-GBI Ecclesia Church
+GBI Ecclesia Mobile App
 
 ## Install the dependencies
 ```bash
@@ -39,4 +39,3 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
-# ecclesia
